@@ -30,4 +30,4 @@ We use GitHub issues to track public errors/bugs. Report an issue by [opening a 
 By contributing, you agree that your contributions will be licensed under its MIT License.
 
 ## References
-This document was adapted from the open-source contribution guidelines (https://gist.github.com/briandk/3d2e8b3ec8daf5a27a62#file-contributing-md)
+This document was adapted from the open-source contribution guidelines [briandk](https://gist.github.com/briandk/3d2e8b3ec8daf5a27a62#file-contributing-md)
